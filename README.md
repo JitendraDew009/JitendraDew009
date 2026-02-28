@@ -77,7 +77,7 @@ Mobile app with Signup, Facebook Login, and E-Shopping UI.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JitendraDew009/JitendraDew009/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/JitendraDew009/JitendraDew009/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
