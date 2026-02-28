@@ -1,80 +1,80 @@
-<h1 align="center">Hi 👋, I'm Jitendra</h1>
+<h1 align="center">Hi, I'm Jitendra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;React+Native+Explorer;Building+Projects+In+Public;Future+AI+Engineer🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;React+Native+Developer;Building+Projects+in+Public;Artificial+Intelligence+Enthusiast" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JitendraDew009&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=JitendraDew009&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Learning **Artificial Intelligence & Software Engineering**
-- 🐍 Strong foundation in **Python**
-- 📱 Exploring **React Native Development**
-- 🤖 Building real-world **AI & Automation Projects**
-- 💡 Passionate about problem solving & continuous learning
-- 🚀 Goal: Become a Professional **AI Engineer**
+- Currently learning Artificial Intelligence and Software Engineering  
+- Strong foundation in Python programming  
+- Exploring cross-platform mobile development using React Native  
+- Building practical AI and automation-based projects  
+- Focused on problem solving and continuous improvement  
+- Career goal: AI Engineer  
 
 ---
 
-## 🧠 AI Engineer Tech Stack
+## Technical Skills
 
-### 👨‍💻 Programming
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📱 Mobile Development
+### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### ⚙️ Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🐍 Python Fundamentals & Games
-Strengthened Python concepts through text-based games.
+### Python Fundamentals and Games
+Practice repository focused on strengthening Python concepts through text-based applications.
 
-[🔗 View Repository](https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games)
-
----
-
-### 📱 React Native Practice App
-Mobile app with Signup, Facebook Login, and E-Shopping UI.
-
-[🔗 View Repository](https://github.com/JitendraDew009/React_Native_Practice-1.0)
+Repository:  
+https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 
 ---
 
-## 📊 GitHub Stats
+### React Native Practice Application
+Mobile application implementing signup flow, Facebook authentication, and an e-commerce interface.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JitendraDew009&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+Repository:  
+https://github.com/JitendraDew009/React_Native_Practice-1.0
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=tokyonight" />
-</p>
 ---
 
-## 🔥 GitHub Contribution Streak
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraDew009&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default" height="170"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraDew009&theme=default" />
+</p>
+
+---
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JitendraDew009/JitendraDew009/output/github-contribution-grid-snake.svg" />
@@ -82,22 +82,22 @@ Mobile app with Signup, Facebook Login, and E-Shopping UI.
 
 ---
 
-## 🚧 Currently Building
+## Current Focus
 
-- 🤖 AI Projects
-- 🧠 Machine Learning Foundations
-- 📱 Mobile Applications
-- 🚀 Public Developer Portfolio
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 💻 GitHub: https://github.com/JitendraDew009
+- Artificial Intelligence Projects  
+- Machine Learning Foundations  
+- Mobile Application Development  
+- Building a Public Technical Portfolio  
 
 ---
 
-## ⚡ AI Engineer Mindset
+## Connect
 
-> Learn → Build → Share → Improve → Repeat 🚀
+LinkedIn: https://linkedin.com/in/your-linkedin  
+GitHub: https://github.com/JitendraDew009
+
+---
+
+## Development Approach
+
+Learn → Build → Share → Improve → Repeat
