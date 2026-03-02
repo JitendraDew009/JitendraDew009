@@ -93,7 +93,7 @@ https://github.com/JitendraDew009/React_Native_Practice-1.0
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/your-linkedin  
+LinkedIn: https://linkedin.com/in/jitendradewangan/  
 GitHub: https://github.com/JitendraDew009
 
 ---
