@@ -57,6 +57,14 @@ https://github.com/JitendraDew009/React_Native_Practice-1.0
 
 ---
 
+### Nutri Ninja App
+Nutri Ninja turns complex food labels into easy health insights using barcode scanning and a clean dashboard.
+
+Repository:  
+https://github.com/JitendraDew009/Nutri-Ninja-App
+
+---
+
 ## GitHub Statistics
 
 <p align="center">
