@@ -62,11 +62,12 @@ I have around 3 years of experience across different domains, and now I’m focu
 
 ## Featured Projects
 
-### Python Fundamentals and Games
-Practice repository focused on strengthening Python concepts through text-based applications.
+### Nutri Ninja App
+Nutri Ninja turns complex food labels into easy health insights using barcode scanning and a clean dashboard.
 
 Repository:  
-https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
+https://github.com/JitendraDew009/Nutri-Ninja-App
+
 
 ---
 
@@ -78,11 +79,11 @@ https://github.com/JitendraDew009/React_Native_Practice-1.0
 
 ---
 
-### Nutri Ninja App
-Nutri Ninja turns complex food labels into easy health insights using barcode scanning and a clean dashboard.
+### Python Fundamentals and Games
+Practice repository focused on strengthening Python concepts through text-based applications.
 
 Repository:  
-https://github.com/JitendraDew009/Nutri-Ninja-App
+https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 
 ---
 
