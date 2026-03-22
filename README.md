@@ -14,13 +14,18 @@
 
 ## About Me
 
-- Currently learning Artificial Intelligence and Software Engineering  
+Hi, I'm Jitendra 👋
+I'm a passionate Software Developer and AI enthusiast currently pursuing my Master's (MCA). I enjoy building real-world projects, exploring new technologies, and continuously improving my problem-solving skills.
+
+I have around 3 years of experience across different domains, and now I’m focused on transitioning into AI and software development roles. I love working on projects that create impact and help people.
+
+- Currently learning and building in Artificial Intelligence, Machine Learning and Software Engineering  
 - Strong foundation in Python programming  
 - Exploring cross-platform mobile development using React Native  
 - Building practical AI and automation-based projects  
 - Focused on problem solving and continuous improvement  
-- Career goal: AI Engineer  
-
+- Strengthening my Data Structures & Algorithms
+- Career goal: AI Engineer 
 ---
 
 ## Technical Skills
