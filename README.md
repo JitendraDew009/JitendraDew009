@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jitendra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+(+in+Progress+);Python+Developer;React+Native+Developer;Building+Projects+in+Public;Artificial+Intelligence+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+(in+Progress);Python+Developer;React+Native+Developer;Building+Projects+in+Public;Artificial+Intelligence+Enthusiast" />
 </p>
 
 ---
