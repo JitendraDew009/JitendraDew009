@@ -65,11 +65,11 @@ I have around 3 years of experience across different domains, and now I’m focu
 
 ## Featured Projects
 
-### Nutri Ninja App
+### Nutri Ninja App 3.0
 Nutri Ninja turns complex food labels into easy health insights using barcode scanning and a clean dashboard.
 
 Repository:  
-https://github.com/JitendraDew009/Nutri-Ninja-App
+https://github.com/JitendraDew009/Nutri-Ninja-App-3.0
 
 
 ---
