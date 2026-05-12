@@ -1,23 +1,16 @@
 <h1 align="center">Hi, I'm Jitendra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+(in+Progress);Python+Developer;React+Native+Developer;Building+Projects+in+Public;Artificial+Intelligence+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+(in+Progress);Python+Developer;React+Native+Developer;Building+Projects+in+Public;Artificial+Intelligence+Enthusias" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JitendraDew009&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## About Me
 
 Hi, I'm Jitendra 👋
-I'm a passionate Software Developer and AI enthusiast currently pursuing my Master's (MCA). I enjoy building real-world projects, exploring new technologies, and continuously improving my problem-solving skills.
-
-I have around 3 years of experience across different domains, and now I’m focused on transitioning into AI and software development roles. I love working on projects that create impact and help people.
+I'm a passionate Software Developer and AI enginner (in progress) currently pursuing my Master's (MCA). I enjoy building real-world projects, exploring new technologies, and continuously improving my problem-solving skills. I love working on projects that create impact and help people.
 
 - Currently learning and building in Artificial Intelligence, Machine Learning and Software Engineering  
 - Strong foundation in Python programming  
@@ -25,7 +18,7 @@ I have around 3 years of experience across different domains, and now I’m focu
 - Building practical AI and automation-based projects  
 - Focused on problem solving and continuous improvement  
 - Strengthening my Data Structures & Algorithms
-- Career goal: AI Engineer 
+- Career goal: AI Product Engineer 
 ---
 
 ## Technical Skills
