@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jitendra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+(in+Progress);Python+Developer;React+Native+Developer;Building+Projects+in+Public;Artificial+Intelligence+Enthusias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+(in+Progress);Python+Developer;React+Native+Developer;Building+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## About Me
 
 Hi, I'm Jitendra 👋
-I'm a passionate Software Developer and AI enginner (in progress) currently pursuing my Master's (MCA). I enjoy building real-world projects, exploring new technologies, and continuously improving my problem-solving skills. I love working on projects that create impact and help people.
+I'm a passionate Software Developer and AI engineer (in progress) currently pursuing my Master's (MCA). I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
 
 - Currently learning and building in Artificial Intelligence, Machine Learning and Software Engineering  
 - Strong foundation in Python programming  
@@ -18,6 +18,7 @@ I'm a passionate Software Developer and AI enginner (in progress) currently purs
 - Focused on problem solving and continuous improvement  
 - Strengthening my Data Structures & Algorithms
 - Career goal: AI Product Engineer 
+
 ---
 
 ## Technical Skills
@@ -98,8 +99,8 @@ https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default" height="170"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default&hide_border=false&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -107,7 +108,7 @@ https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraDew009&theme=default" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraDew009&theme=default&hide_border=false&cache_seconds=1800" />
 </p>
 
 ---
@@ -115,7 +116,7 @@ https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JitendraDew009/JitendraDew009/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/JitendraDew009/JitendraDew009/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
