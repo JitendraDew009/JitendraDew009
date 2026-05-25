@@ -99,8 +99,8 @@ https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 ## GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default&hide_border=false&cache_seconds=1800" height="170"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default&hide_border=false" height="170"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 ## Contribution Activity
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraDew009&theme=default&hide_border=false&cache_seconds=1800" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraDew009&theme=default&hide_border=false" />
 </p>
 
 ---
