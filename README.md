@@ -9,7 +9,7 @@
 ## About Me
 
 Hi, I'm Jitendra 👋
-I'm a passionate Software Developer and AI engineer (in progress) currently pursuing my Master's (MCA). I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
+I'm a passionate Software Developer and AI engineer currently working as an AI Engineer Intern in Rubixe AI Solution Company. I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
 
 - Currently learning and building in Artificial Intelligence, Machine Learning and Software Engineering  
 - Strong foundation in Python programming  
