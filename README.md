@@ -19,7 +19,9 @@ I'm a passionate  AI Product engineer currently working as an AI Engineer Intern
 Currently building:
 
 → AI-powered nutrition intelligence
+
 → Production RAG systems
+
 → Agentic AI workflows
 
 - Strong foundation in Python programming  
