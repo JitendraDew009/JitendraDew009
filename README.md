@@ -9,6 +9,7 @@
 ## About Me
 
 AI Product Engineer
+
 Python | FastAPI | LLMs | RAG | LangGraph
 
 Hi, I'm Jitendra 👋
