@@ -17,6 +17,7 @@ Hi, I'm Jitendra 👋
 I'm a passionate  AI Product engineer currently working as an AI Engineer Intern in Rubixe AI Solution Company. I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
 
 Currently building:
+
 → AI-powered nutrition intelligence
 → Production RAG systems
 → Agentic AI workflows
