@@ -8,10 +8,17 @@
 
 ## About Me
 
-Hi, I'm Jitendra 👋
-I'm a passionate Software Developer and AI engineer currently working as an AI Engineer Intern in Rubixe AI Solution Company. I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
+AI Product Engineer
+Python | FastAPI | LLMs | RAG | LangGraph
 
-- Currently learning and building in Artificial Intelligence, Machine Learning and Software Engineering  
+Hi, I'm Jitendra 👋
+I'm a passionate  AI Product engineer currently working as an AI Engineer Intern in Rubixe AI Solution Company. I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
+
+Currently building:
+→ AI-powered nutrition intelligence
+→ Production RAG systems
+→ Agentic AI workflows
+
 - Strong foundation in Python programming  
 - Exploring cross-platform mobile development using React Native  
 - Building practical AI and automation-based projects  
@@ -19,6 +26,11 @@ I'm a passionate Software Developer and AI engineer currently working as an AI E
 - Strengthening my Data Structures & Algorithms
 - Career goal: AI Product Engineer 
 
+Interested in:
+AI Engineering
+Generative AI
+AI Products
+Applied ML
 ---
 
 ## Technical Skills
