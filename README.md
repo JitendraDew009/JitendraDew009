@@ -31,12 +31,7 @@ Currently building:
 - Strengthening my Data Structures & Algorithms
 - Career goal: AI Product Engineer 
 
-Interested in:
-
-AI Engineering
-Generative AI
-AI Products
-Applied ML
+Interested in: AI Engineering, Generative AI, AI Products, Applied ML
 
 ---
 
