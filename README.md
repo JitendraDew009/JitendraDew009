@@ -32,10 +32,12 @@ Currently building:
 - Career goal: AI Product Engineer 
 
 Interested in:
+
 AI Engineering
 Generative AI
 AI Products
 Applied ML
+
 ---
 
 ## Technical Skills
