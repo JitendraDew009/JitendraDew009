@@ -85,28 +85,27 @@ Interested in: AI Engineering, Generative AI, AI Products, Applied ML
 
 ## Featured Projects
 
-### Nutri Ninja App 3.0
-Nutri Ninja turns complex food labels into easy health insights using barcode scanning and a clean dashboard.
+### Nutri Ninja App 5.0
+An AI-powered food scanner Android app. Scan any packaged food barcode, get instant health scores, ingredient warnings, personalized nutrition advice, and AI-powered diet chat — all stored locally on your phone.
 
 Repository:  
-https://github.com/JitendraDew009/Nutri-Ninja-App-3.0
-
+https://github.com/JitendraDew009/Nutri-Ninja-5.0
 
 ---
 
-### React Native Practice Application
-Mobile application implementing signup flow, Facebook authentication, and an e-commerce interface.
+### Agent-Chat-Bot (LangChain + Google Gemini Chatbot)
+A lightweight Python chatbot powered by **LangChain** and **Google Gemini**. It reads user input from the console, sends it to the Gemini API, and prints the AI’s response back in real time. Simple setup with `.env` for API key management, making it easy to extend into larger applications.
 
 Repository:  
-https://github.com/JitendraDew009/React_Native_Practice-1.0
+https://github.com/JitendraDew009/Agent-Chat-Bot
 
 ---
 
-### Python Fundamentals and Games
-Practice repository focused on strengthening Python concepts through text-based applications.
+### Emotion Detection — AI Emotion Detection System
+Real-time emotion detection using a webcam and DeepFace, with optional music playback and simple dashboards for analytics (web and PyQt). Intended for demo, prototyping, and educational projects where you want to visualize detected emotions, log them to CSV/SQLite, and play mood-matching music.
 
 Repository:  
-https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
+https://github.com/JitendraDew009/Emotion-Detection
 
 ---
 
@@ -132,15 +131,6 @@ https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games
 <p align="center">
   <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/JitendraDew009/JitendraDew009/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## Current Focus
-
-- Artificial Intelligence Projects  
-- Machine Learning Foundations  
-- Mobile Application Development  
-- Building a Public Technical Portfolio  
 
 ---
 
