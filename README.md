@@ -14,7 +14,7 @@ Python | FastAPI | LLMs | RAG | LangGraph
 
 Hi, I'm Jitendra 👋
 
-I'm a passionate  AI Product engineer currently working as an AI Engineer Intern in Rubixe AI Solution Company. I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
+I'm a passionate  AI Product engineer currently working as an AI Engineer Intern in Rubixe AI Solution Company. I build AI products that turn LLMs, RAG and agentic workflows into usable applications.
 
 Currently building:
 
