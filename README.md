@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jitendra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;React+Native+Developer;Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;React+Native+Developer;Building+Projects" alt="Typing SVG">
 </p>
 
 ---
@@ -94,7 +94,7 @@ https://github.com/JitendraDew009/Nutri-Ninja-5.0
 ---
 
 ### Agent-Chat-Bot (LangChain + Google Gemini Chatbot)
-A lightweight Python chatbot powered by **LangChain** and **Google Gemini**. It reads user input from the console, sends it to the Gemini API, and prints the AI’s response back in real time. Simple setup with `.env` for API key management, making it easy to extend into larger applications.
+A lightweight Python chatbot powered by **LangChain** and **Google Gemini**. It reads user input from the console, sends it to the Gemini API, and prints the AI's response back in real time. Simple setup with `.env` for API key management.
 
 Repository:  
 https://github.com/JitendraDew009/Agent-Chat-Bot
@@ -102,7 +102,7 @@ https://github.com/JitendraDew009/Agent-Chat-Bot
 ---
 
 ### Emotion Detection — AI Emotion Detection System
-Real-time emotion detection using a webcam and DeepFace, with optional music playback and simple dashboards for analytics (web and PyQt). Intended for demo, prototyping, and educational projects where you want to visualize detected emotions, log them to CSV/SQLite, and play mood-matching music.
+Real-time emotion detection using a webcam and DeepFace, with optional music playback and simple dashboards for analytics (web and PyQt). Intended for demo, prototyping, and educational projects.
 
 Repository:  
 https://github.com/JitendraDew009/Emotion-Detection
@@ -112,8 +112,8 @@ https://github.com/JitendraDew009/Emotion-Detection
 ## GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default&hide_border=false" height="170"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JitendraDew009&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraDew009&layout=compact&theme=default&hide_border=false" height="170"/>
 </p>
 
 ---
