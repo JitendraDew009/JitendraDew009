@@ -232,10 +232,6 @@ I am actively interested in discussing AI engineering, LLM applications, and inn
 
 ---
 
-## Education & Certifications
-
-[Add your educational background and relevant certifications here]
-
 ---
 
 ## Development Approach
