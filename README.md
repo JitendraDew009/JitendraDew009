@@ -224,7 +224,7 @@ I am actively interested in discussing AI engineering, LLM applications, and inn
 **Open to:** Full-time AI Engineer | ML Engineer | AI Product Engineer roles
 
 **Contact:**
-- Email: [Update with your email]
+- Email: dewanganjitendra725@gmail.com
 - LinkedIn: [linkedin.com/in/jitendradewangan/](https://linkedin.com/in/jitendradewangan/)
 - GitHub: [github.com/JitendraDew009](https://github.com/JitendraDew009)
 
