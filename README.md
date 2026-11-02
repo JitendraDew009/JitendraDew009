@@ -19,7 +19,7 @@
 
 AI Product Engineer with hands-on experience building LLM-powered applications, production RAG systems, and agentic AI workflows. 
 
-Currently working as an AI Engineer Intern at Rubixe AI Solution Company, where I transform complex AI concepts into scalable, production-ready features.
+Currently working as an AI Engineer Intern at Rubixe AI Solution Company, where personally contributed to data preprocessing, exploratory data analysis, feature engineering, model implementation, performance evaluation, and visualization of findings. Used Python, Pandas, NumPy, Scikit-learn, and Power BI as required by the project.
 
 **Specialization:**
 - Building AI products with LLMs (LangChain, LangGraph, Google Gemini)
