@@ -96,7 +96,7 @@ Currently working as an AI Engineer Intern at Rubixe AI Solution Company, where 
 
 ### Nutri Ninja 5.0 — AI-Powered Food Scanner App
 
-An intelligent nutrition assistant that scans food barcodes and provides instant health insights with AI-powered diet advice.
+An intelligent nutrition assistant that scans packaged food barcodes and provides instant health insights with AI-powered diet advice.
 
 **Features:**
 - Real-time barcode recognition with ML inference
@@ -107,7 +107,7 @@ An intelligent nutrition assistant that scans food barcodes and provides instant
 
 **Tech Stack:** React Native | TypeScript | FastAPI | Python | AI/ML models | Firebase
 
-**Impact:** Processed nutrition data for 1000+ food items with personalized recommendations
+**Impact:** Processed nutrition data for 20+ food items with personalized recommendations
 
 **Repository:** [Nutri-Ninja-5.0](https://github.com/JitendraDew009/Nutri-Ninja-5.0)
 
@@ -162,22 +162,6 @@ Computer vision model for detecting and classifying furniture items in images us
 
 ---
 
-### React Native Practice Application
-
-Full-featured mobile development showcase with user authentication, social login integration, and e-commerce workflows.
-
-**Features:**
-- User signup & secure authentication
-- Facebook OAuth integration
-- E-commerce product browsing & checkout UI
-- Cross-platform mobile development patterns
-
-**Tech Stack:** React Native | Expo | TypeScript
-
-**Repository:** [React_Native_Practice-1.0](https://github.com/JitendraDew009/React_Native_Practice-1.0)
-
----
-
 ### Learning & Practice Projects
 
 | Project | Topics | Repository |
@@ -221,7 +205,7 @@ Full-featured mobile development showcase with user authentication, social login
 
 I am actively interested in discussing AI engineering, LLM applications, and innovative product development opportunities.
 
-**Open to:** Full-time AI Engineer | ML Engineer | AI Product Engineer roles
+**Open to:** Full-time Applied AI Engineer / Junior AI Engineer | ML Engineer | AI Product Engineer roles
 
 **Contact:**
 - Email: dewanganjitendra725@gmail.com
@@ -240,7 +224,6 @@ Core Principles:
 - Writing clean, maintainable, and well-documented code
 - Building features with measurable real-world impact
 - Continuous learning and technical exploration
-- Contributing to open-source communities
 - Shipping production-ready solutions
 
 ---
@@ -254,5 +237,5 @@ Core Principles:
 <p align="center">
   <strong>If my projects have been helpful, please consider starring them.</strong>
   <br/>
-  Last updated: September 2024
+  Last updated:  November 2026
 </p>
