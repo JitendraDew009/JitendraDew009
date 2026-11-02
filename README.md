@@ -1,6 +1,6 @@
 <h1 align="center">Jitendra Dewangan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=28&center=true&vCenter=true&width=800&lines=AI+Product+Engineer;Python+Developer;FastAPI+%26+LLM+Specialist;Building+Production+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=28&center=true&vCenter=true&width=800&lines=AI+Product+Engineer;Python+Developer;FastAPI+%26+LLM+Specialist;Building+Production+A[...]
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 AI Product Engineer with hands-on experience building LLM-powered applications, production RAG systems, and agentic AI workflows. 
 
-Currently working as an AI Engineer Intern at Rubixe AI Solution Company, where personally contributed to data preprocessing, exploratory data analysis, feature engineering, model implementation, performance evaluation, and visualization of findings. Used Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV and Power BI as required by the project.
+Currently working as an AI Engineer Intern at Rubixe AI Solution Company, where personally contributed to data preprocessing, exploratory data analysis, feature engineering, model implementation, perf[...]
 
 **Specialization:**
 - Building AI products with LLMs (LangChain, LangGraph, Google Gemini)
@@ -162,12 +162,50 @@ Computer vision model for detecting and classifying furniture items in images us
 
 ---
 
+### Agent with Qdrant Memory — AI Memory-Enabled Assistant
+
+An intelligent agentic system designed to maintain contextual memory and retrieve relevant information dynamically using Qdrant vector search for smarter, more personalized AI interactions.
+
+**Features:**
+- Long-term conversational memory using vector embeddings
+- Semantic retrieval with Qdrant for contextual recall
+- Agent workflow for task-aware responses
+- Efficient document and conversation memory indexing
+- Scalable architecture for AI assistant applications
+
+**Tech Stack:** Python | LangChain | Qdrant | FastAPI | Vector Search | LLM APIs
+
+**Use Case:** Smart assistants, enterprise knowledge bots, and memory-driven conversational AI systems
+
+**Repository:** [Agent_with_Qdrant_Memory](https://github.com/JitendraDew009/Agent_with_Qdrant_Memory)
+
+---
+
+### Yatra Agent — AI Travel Planning Assistant
+
+An AI-powered travel assistant built to help users explore travel options, plan itineraries, and answer destination-related queries with conversational intelligence.
+
+**Features:**
+- Travel itinerary guidance and recommendations
+- AI-driven conversations for destination planning
+- Context-aware responses for user travel preferences
+- Smart agent workflows for task assistance
+- Scalable conversational interface for travel support
+
+**Tech Stack:** Python | LangChain | LLM APIs | FastAPI | Vector Memory | Agent Workflows
+
+**Use Case:** Travel planning assistants, trip guidance systems, and AI-powered customer support experiences
+
+**Repository:** [Yatra_Agent](https://github.com/JitendraDew009/Yatra_Agent)
+
+---
+
 ### Learning & Practice Projects
 
 | Project | Topics | Repository |
 |---------|--------|-----------|
 | Python Fundamentals & Games | Core Python, OOP, Game Development | [Python-Code-Fundamentals-and-Games](https://github.com/JitendraDew009/Python-Code-Fundamentals-and-Games) |
-| Data Science Stack | NumPy, Pandas, Matplotlib fundamentals | [Pandas_Practice](https://github.com/JitendraDew009/Pandas_Practice) \| [Numpy_Practice](https://github.com/JitendraDew009/Numpy_Practice) \| [Matplotlib_Practice_and_Bonus](https://github.com/JitendraDew009/Matplotlib_Practice_and_Bonus) |
+| Data Science Stack | NumPy, Pandas, Matplotlib fundamentals | [Pandas_Practice](https://github.com/JitendraDew009/Pandas_Practice) \| [Numpy_Practice](https://github.com/JitendraDew009/Numpy_Practice) |
 | Machine Learning | ML algorithms, model training, evaluation | [Machine-Learning-Project](https://github.com/JitendraDew009/Machine-Learning-Project) |
 | Computer Vision | MobileNet Transfer Learning for mobile deployment | [Computer-Vision-MobileNet_Transfer-Learning](https://github.com/JitendraDew009/Computer-Vision-MobileNet_Transfer-Learning) |
 | DSA Practice | Data Structures & Algorithms problem solving | [DSA_Practice_Problem](https://github.com/JitendraDew009/DSA_Practice_Problem) |
