@@ -205,7 +205,7 @@ Computer vision model for detecting and classifying furniture items in images us
 
 I am actively interested in discussing AI engineering, LLM applications, and innovative product development opportunities.
 
-**Open to:** Full-time Applied AI Engineer / Junior AI Engineer | ML Engineer | AI Product Engineer roles
+**Open to:** Full-time Applied AI Engineer / Junior AI Engineer | Gen AI Engineer | Python Backend Engineer (AI focused) | ML Engineer | AI Product Engineer roles
 
 **Contact:**
 - Email: dewanganjitendra725@gmail.com
