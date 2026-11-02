@@ -27,7 +27,7 @@ Currently working as an AI Engineer Intern at Rubixe AI Solution Company, where 
 - Creating agentic AI workflows and autonomous agents
 - Mobile app development with React Native & modern backends
 
-**Career Goal:** AI Product Engineer | Applied AI Engineer| Gen AI Engineer |ML Enigneer
+**Career Goal:** AI Product Engineer | Applied AI Engineer | Gen AI Engineer | ML Engineer
 
 ---
 
